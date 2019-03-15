@@ -1,6 +1,6 @@
 # SteamCDKeyTool
 
-MutiQuery CD-Keys
+MutiQuery CD-Keys for Steam developers.
 
 Useage:
 * Copy script form MutiQueryCD-keys.js.
