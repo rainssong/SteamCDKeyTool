@@ -1,4 +1,3 @@
-javascript:(function(){
 qresult="";
 resultCount=0;
 var cdkeys;
@@ -47,6 +46,3 @@ function printResult(result)
 {
     jQuery("#MutiQuery").after(result);
 }
-
-}()
-)
