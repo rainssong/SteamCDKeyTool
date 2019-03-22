@@ -8,7 +8,7 @@ Useage:
 * Press F12 and paste into console. You can see a new textarea and MutiQuery button.
 * Paste your CD-Keys into textarea, click, done!
 
-Notice: The steam will log you out in 1 minutes, so dont query too many CD-Keys in 1 time.
+Notice: The steam will log you out in 1 minutes, so don't query too many CD-Keys at 1 time.
 
 Auther:rainssong
 
