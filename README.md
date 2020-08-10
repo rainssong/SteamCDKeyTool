@@ -13,4 +13,4 @@ Notice: The steam will log you out in 1 minutes, so don't query too many CD-Keys
 Auther:rainssong
 
 Mailto:rainssong@126.com
-(I'd like to enjoy your new game, emali me!)
+(I'd like to enjoy your new game, mail me!)
